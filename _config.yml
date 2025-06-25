@@ -3,8 +3,6 @@ logo: "/images/Nura_picture.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data researcher with a diverse educational background in data science, political philosophy, and the humanities.
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
