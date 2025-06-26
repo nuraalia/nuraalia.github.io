@@ -21,9 +21,9 @@
 
 ---
 
-### Category Name 2
+### Academic Articles and Freelance Writing
 
-- [Project 1 Title](http://example.com/)
+- [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
