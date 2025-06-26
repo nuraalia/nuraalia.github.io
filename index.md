@@ -23,7 +23,7 @@
 
 ### Academic Articles and Freelance Writing
 
-- [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](http://example.com/)
+- [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
