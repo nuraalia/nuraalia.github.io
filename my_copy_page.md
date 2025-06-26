@@ -4,6 +4,6 @@
 
 ### Democcrats were substantially more likely to feel like it was difficult to cast a vote. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/table_voting_difficulty.png?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
