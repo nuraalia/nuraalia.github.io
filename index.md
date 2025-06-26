@@ -12,9 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Partisan Differences in Perceived Voting Difficulty](/203_voting_difficulty_page.md)
+[Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
 
 <img src="images/voting-booths-with-no-people.jpg?raw=true"/>
+
+**Tools used**: R, RStudio
+
 
 ---
 
