@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Partisan Differences in Perceived Voting Difficulty in the 2022 US Midterm Elections](/sample_page.md)
+[Partisan Differences in Perceived Voting Difficulty](/sample_page.md)
 <img src="images/voting-booths-with-no-people.jpg?raw=true"/>
 
 ---
