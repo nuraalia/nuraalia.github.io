@@ -4,16 +4,16 @@
 
 ### Data Science Projects 
 
-[Partisan Differences in Perceived Voting Difficulty](/sample_page.md)
-<img src="images/voting-booths-with-no-people.jpg?raw=true"/>
-
----
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Partisan Differences in Perceived Voting Difficulty](/203_voting_difficulty_page.md)
+<img src="images/voting-booths-with-no-people.jpg?raw=true"/>
 
 ---
 
