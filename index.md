@@ -16,7 +16,7 @@
 
 <img src="images/voting-booths-with-no-people.jpg?raw=true"/>
 
-**Tools used**: R, RStudio
+<b><u>Tools Used</u></b>: R, RStudio
 
 
 ---
