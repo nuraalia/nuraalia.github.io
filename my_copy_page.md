@@ -1,31 +1,9 @@
-## This can be your internal website page / project page
+## Partisan Differences in Perceived Voting Difficulty in the 2022 US Midterm Elections
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In this project, we studied whether party affiliation was associated with a voter’s perceived difficulty of casting a vote in the 2022 midterm elections. We studied voters who identified as either Democrat or Republican (or indicated they felt “closer to” either party) and their assessment of how “difficult” they felt it was to cast a vote. We used a two-sample t-test (using R) to measure whether there was a discrepancy between responses given by people who affiliated themselves with either party. We found that Democrats were much more likely to experience difficulty voting. Specifically, 17.52% of Democratic voters reported experiencing difficulty, whereas only 8.07% of Republican voters did. This statistically significant difference, (with a p-value < 0.01) suggests that the disparity in perceived voting difficulty discerned in this study is unlikely due to chance and indicates a need for future studies to explore the reason for this correspondence between being a Democrat and feeling that engaging in this important and fundamental democratic act is perceived to be difficult. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+### Democcrats were substantially more likely to feel like it was difficult to cast a vote. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
