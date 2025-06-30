@@ -9,7 +9,7 @@
 
 ---
 [Do People from Big Families Love Big Families?](http://example.com/)
-<img src="images/big_families.png?raw=true"/>
+<img src="images/heatmap_siblings.png?raw=true"/>
 
 ---
 [Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
