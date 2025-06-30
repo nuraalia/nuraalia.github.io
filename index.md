@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Do People from Big Families Love Big Families?](http://example.com/)
+[Do People from Big Families Love Big Families?](/203_big_families.md)
 <img src="images/heatmap_siblings.png?raw=true"/>
 
 ---
