@@ -4,6 +4,6 @@
 
 ### We explored several models, and the one that best fit the data indicated no significant correlation between number of siblings and ideal family size.. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/indicator_model_big_families.png?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
