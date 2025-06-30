@@ -4,12 +4,12 @@
 
 ### Data Science Projects 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Do People from Big Families Love Big Families?](http://example.com/)
+<img src="images/big_families.png?raw=true"/>
 
 ---
 [Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
