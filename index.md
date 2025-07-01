@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Project 2](/pdf/sample_presentation.pdf)
+[Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
