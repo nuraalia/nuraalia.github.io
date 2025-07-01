@@ -6,7 +6,7 @@
 
 [Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/pdf/sample_presentation.pdf)
 
-<img src="images/woc_childbirth.png?raw=true"/>
+<img src="images/headline_woc_childbirth.png?raw=true"/>
 
 ---
 [Do People from Big Families Love Big Families?](/203_big_families.md)
