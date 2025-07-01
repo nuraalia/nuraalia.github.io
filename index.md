@@ -4,12 +4,12 @@
 
 ### Data Science Projects 
 
-[Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/pdf/sample_presentation.pdf)
+[Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/woc_childbirth.md)
 
 <img src="images/headline_woc_childbirth.png?raw=true"/>
 
 ---
-[Can Machine Learning Detect Mental Health from Online Expression?](/pdf/sample_presentation.pdf)
+[Can Machine Learning Detect Mental Health from Online Expression?](/mental_health.md)
 
 <img src="images/wordcloud.png?raw=true"/>---
 
@@ -28,7 +28,7 @@
 <b><u>Tools Used</u></b>: R, RStudio
 
 ---
-[Tracking Refugee Movement Around the World](/203_voting_difficulty_page.md)
+[Tracking Refugee Movement Around the World](/refugees.md)
 
 <img src="images/neo4j_graph_refugees.png?raw=true"/>
 
