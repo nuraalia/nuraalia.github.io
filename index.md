@@ -18,6 +18,8 @@
 
 <img src="images/brady_bunch_stairs2.jpg?raw=true"/>
 
+<b><u>Tools Used</u></b>: R, RStudio
+
 ---
 [Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
 
@@ -28,9 +30,9 @@
 ---
 [Tracking Refugee Movement Around the World](/203_voting_difficulty_page.md)
 
-<img src="images/neo4j_graph.png?raw=true"/>
+<img src="images/neo4j_graph_refugees.png?raw=true"/>
 
-<b><u>Tools Used</u></b>: R, RStudio
+<b><u>Tools Used</u></b>: Pandas, Numpy, Matplotlib, Scikit-learn
 
 
 ---
