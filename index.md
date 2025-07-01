@@ -9,7 +9,7 @@
 
 ---
 [Do People from Big Families Love Big Families?](/203_big_families.md)
-<img src="images/heatmap_siblings.png?raw=true"/>
+<img src="images/stick_figure_family.jpg?raw=true"/>
 
 ---
 [Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
