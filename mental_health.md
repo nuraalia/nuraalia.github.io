@@ -12,12 +12,6 @@ Our most performant multiclass model was also a neural network, but one in which
 
 The nodes (which are characteristic of neural networks) appear in the last layer of the model, and there are five of them, each corresponding to a mental health state. Each node is attached to a weight that reflects the values in the numerical vector produced by the previous layer, and these weights are used to calculate a score for each node.  A softmax activation function then converts these scores into probabilities, representing the model’s estimated likelihood that the statement reflects each of the five mental health states.  To put it simply, words are converted into patterns of numbers, and these patterns of numbers are associated with states of mental health.
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/performant_binary_model.png?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
