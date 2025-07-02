@@ -7,12 +7,12 @@ For our most performant binary model, the text was preprocessed into bag-of-word
 
 Our most performant binary model was a multilayer perceptron, a type of neural network (whose structure, consisting of layers of nodes connected to each other, is inspired by the human brain). This model had two hidden layers, composed of 128 and 64 nodes, connected by numeric weights that measured the importance of each node. These weights were tuned by the model to discern the words in the text input (for example, the word “beautiful” is represented by a particular set of weights in each layer). The model learns associations between the words in a statement and “healthy” or “unhealthy” labels for each statement, and then is able to predict, at 95% accuracy, whether a previously unseen statement is likely to be written by a “healthy” or “unhealthy” author. “Beautiful,” for example, in combination with other words, would likely be found by the model to be associated more commonly with a “healthy” label. 
 
-<img src="images/performant_binary_model.png?raw=true"/>
-
 ### Features of best performing multiclass model:
 Our most performant multiclass model was also a neural network, but one in which words were represented within embeddings. In this approach, every word was converted into a numeric vector, where the values in the vector capture the word’s relationship to other words — for example, words expressing positive emotions tend to have similar vector patterns. The model processed these sequences of embedded words from each statement, and then consolidated and simplified the words within each statement into a single vector (through GlobalAveragePooling1D), which computes the average embedding across all words in the statement. 
 
 The nodes (which are characteristic of neural networks) appear in the last layer of the model, and there are five of them, each corresponding to a mental health state. Each node is attached to a weight that reflects the values in the numerical vector produced by the previous layer, and these weights are used to calculate a score for each node.  A softmax activation function then converts these scores into probabilities, representing the model’s estimated likelihood that the statement reflects each of the five mental health states.  To put it simply, words are converted into patterns of numbers, and these patterns of numbers are associated with states of mental health.
+
+<img src="images/performant_multiclass_model_slide.png?raw=true"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
