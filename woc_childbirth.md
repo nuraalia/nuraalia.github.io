@@ -12,5 +12,6 @@ Our hope is that this study will be of interest to medical and nursing schools a
 
 <img src="images/interview_questions_woc_childbirth.png?raw=true"/>
 
-For the full project report, see: [Empathy and Racism During Childbirth](/pdf/nura_edits_201_writeup.pdf).
+For the full project report, see: [Empathy and Racism During Childbirth](/pdf/Nura_edits_201_writeup.pdf).
+
 For a Powerpoint presentation of this project, see: [Empathy and Racism During Childbirth Powerpoint](/pdf/201_project_slides.pdf).
