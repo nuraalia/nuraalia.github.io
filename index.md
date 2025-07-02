@@ -6,7 +6,7 @@
 
 [Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/woc_childbirth.md)
 
-<img src="images/headline_woc_childbirth.png?raw=true"/>
+<img src="images/maternity_care_woc2.jpg?raw=true"/>
 
 ---
 [Can Machine Learning Detect Mental Health from Online Expression?](/mental_health.md)
