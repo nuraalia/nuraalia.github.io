@@ -1,24 +1,16 @@
-## This can be your internal website page / project page
+## TModeling Mental Health: Can Machine Learning Models Assess the Mental Health of People Who Express Themselves Online? 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In this project, we use machine learning models to gauge the mental health of the authors of short statements that were posted in online forums. Such models could be used as a tool to comprehend patterns of language use by people with certain mental health conditions, to predict future mental health conditions or crises based on expressions by patients in their mental health records (machine learning models would be able to study large quantities of material in a short amount of time), and to develop chatbots that could supplement but not replace mental health professionals. We experimented with various models, both “binary”--which placed individuals into one of two categories, healthy or unhealthy–and “multiclass,” which placed each individual into one of several categories (anxious, stressed, depressed, suicidal, bipolar, indications of personality disorder, or none/healthy). Our most performant binary model exhibited about 95% accuracy, while our most performant multiclass model exhibited 87% accuracy. In the case of our most performant multiclass model, we had to combine the anxious and stressed into one category, and the depressed and suicidal categories into another, in order to achieve a higher level of accuracy. So the model was not able to differentiate between an anxious and a stressed person, nor a depressed and a suicidal person. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Features of the best performing binary model:
+For our most performant binary model, the text was preprocessed into bag-of-words format, which means that each vector included an indication of which words are present but did not indicate word order. Perhaps not too surprisingly, therefore, the model could predict whether the author of a statement was healthy or unhealthy just based on individual words and groups of words that they used, rather than by reconstructing meaning through word order.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Our most performant binary model was a multilayer perceptron, a type of neural network (whose structure, consisting of layers of nodes connected to each other, is inspired by the human brain). This model had two hidden layers, composed of 128 and 64 nodes, connected by numeric weights that measured the importance of each node. These weights were tuned by the model to discern the words in the text input (for example, the word “beautiful” is represented by a particular set of weights in each layer). The model learns associations between the words in a statement and “healthy” or “unhealthy” labels for each statement, and then is able to predict, at 95% accuracy, whether a previously unseen statement is likely to be written by a “healthy” or “unhealthy” author. “Beautiful,” for example, in combination with other words, would likely be found by the model to be associated more commonly with a “healthy” label. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### Features of best performing multiclass model:
+Our most performant multiclass model was also a neural network, but one in which words were represented within embeddings. In this approach, every word was converted into a numeric vector, where the values in the vector capture the word’s relationship to other words — for example, words expressing positive emotions tend to have similar vector patterns. The model processed these sequences of embedded words from each statement, and then consolidated and simplified the words within each statement into a single vector (through GlobalAveragePooling1D), which computes the average embedding across all words in the statement. 
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The nodes (which are characteristic of neural networks) appear in the last layer of the model, and there are five of them, each corresponding to a mental health state. Each node is attached to a weight that reflects the values in the numerical vector produced by the previous layer, and these weights are used to calculate a score for each node.  A softmax activation function then converts these scores into probabilities, representing the model’s estimated likelihood that the statement reflects each of the five mental health states.  To put it simply, words are converted into patterns of numbers, and these patterns of numbers are associated with states of mental health.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
