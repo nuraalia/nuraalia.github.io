@@ -18,8 +18,8 @@ The nodes (which are characteristic of neural networks) appear in the last layer
 
 <img src="images/performant_multiclass_model_slide.png?raw=true"/>
 
-For the code of the data preprocessing, see: [Empathy and Racism During Childbirth](/pdf/Nura_edits_201_writeup.pdf).
+For the code for the data preprocessing, see: [Modeling Mental Health Data Preprocessing Code](/code_files/207_final_preprocessing.ipynb).
 
-For the code that produced our final models, see: [Empathy and Racism During Childbirth](/pdf/Nura_edits_201_writeup.pdf).
+For the code that produced our final models, see: [Modeling Mental Health Code Final Models](/code_files/Nura_edits_207_final_models.ipynb).
 
-For a Powerpoint presentation of this project, see: [Empathy and Racism During Childbirth Powerpoint](/pdf/201_project_slides.pdf).
+For a Powerpoint presentation of this project, see: [Modeling Mental Health Presentation](/pdf/Nura_edits_207_presentation.pdf).
