@@ -12,6 +12,6 @@ However, this result was not practically significant since the change in ideal n
 
 <img src="images/indicator_model_big_families.png?raw=true"/>
 
-For the full project report, see: [Do People from Big Families Love Big Families](/pdf/Nura_edits_203_big_families_writeup.pdf).
+For the full project report, see: [Do People from Big Families Love Big Families?](/pdf/Nura_edits_203_big_families_writeup.pdf).
 
 For the source code, see this GitHub repository: [Do People from Big Families Love Big Families Source Code](https://github.com/nuraalia/big_families).
