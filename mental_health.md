@@ -1,5 +1,7 @@
 ## Modeling Mental Health: Can Machine Learning Models Assess the Mental Health of People Who Express Themselves Online? 
 
+By Aimee Williams, Michael Garfagnoli, Abhas Wanchu, Wendy Matta, and Nura Hossainzadeh
+
 **Project description:** In this project, we use machine learning models to gauge the mental health of the authors of short statements that were posted in online forums. Such models could be used as a tool to comprehend patterns of language use by people with certain mental health conditions, to predict future mental health conditions or crises based on expressions by patients in their mental health records (machine learning models would be able to study large quantities of material in a short amount of time), and to develop chatbots that could supplement but not replace mental health professionals. 
 
 We experimented with various models, both “binary”--which placed individuals into one of two categories, healthy or unhealthy–and “multiclass,” which placed each individual into one of several categories (anxious, stressed, depressed, suicidal, bipolar, indications of personality disorder, or none/healthy). 
@@ -18,8 +20,8 @@ The nodes (which are characteristic of neural networks) appear in the last layer
 
 <img src="images/performant_multiclass_model_slide.png?raw=true"/>
 
-For the code for the data preprocessing, see: [Modeling Mental Health Data Preprocessing Code](/code_files/207_final_preprocessing.ipynb).
+For the code for the data preprocessing, see: [Modeling Mental Health Data Preprocessing Code](/code_files/207_final_preprocessing.html).
 
-For the code that produced our final models, see: [Modeling Mental Health Code Final Models](/code_files/Nura_edits_207_final_models.ipynb).
+For the code that produced our final models, see: [Modeling Mental Health Code Final Models](/code_files/Nura_edits_207_final_models.html).
 
 For a Powerpoint presentation of this project, see: [Modeling Mental Health Presentation](/pdf/Nura_edits_207_presentation.pdf).
