@@ -14,10 +14,8 @@ We used Neo4j’s Graph Data Science Library to apply three different algorithms
 
 <img src="images/algorithm_2_refugees.png?raw=true"/>
 
-The Betweenness Centrality algorithm calculated which countries frequently were “bridges” between other countries, connecting them by refugee movement. While this calculation does not indicate that the same people coming in were the same leaving (and were therefore not strictly “bridges”) it did give us some sense of countries—such as Belgium and Iraq–that were highly connected to other countries by large numbers of exiting and entering refugees–and thus seemed to be attractive to some refugees but also had problems of its own, producing some refugees itself. These insights all came from being able to study data in graphical format, and apply algorithms that were written to process data in this format, which allowed us to easily discern refugee paths through the world. 
+The Betweenness Centrality algorithm calculated which countries frequently were “bridges” between other countries, connecting them by refugee movement. While this calculation does not indicate that the same people coming in were the same leaving (and were therefore not strictly “bridges”) it did give us some sense of countries—such as Belgium and Iraq–that were highly connected to other countries by large numbers of exiting and entering refugees. These countries thus seemed to be attractive to some refugees but also had problems of their own, producing some refugees. These insights all came from being able to study data in graphical format and apply algorithms that were written to process data in this format, which allowed us to easily discern refugee paths through the world. 
 
-### Tables produced by algorithms: 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/algorithm_3_refugees.png?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
