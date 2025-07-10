@@ -34,7 +34,7 @@
 
 <img src="images/neo4j_graph_refugees.png?raw=true"/>
 
-<b><u>Tools Used</u></b>: Pandas, Numpy, Matplotlib, Scikit-learn
+<b><u>Tools Used</u></b>: Neo4j, PostgreSQL, Pandas, Numpy, Matplotlib, Scikit-learn
 
 
 ---
