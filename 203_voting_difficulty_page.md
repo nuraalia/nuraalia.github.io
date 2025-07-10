@@ -11,3 +11,5 @@ Using a two-sample t-test (using R) to measure whether there was a discrepancy b
 <img src="images/table_voting_difficulty.png?raw=true"/>
 
 For the full proect report, see [Partisan Differences in Perceived Voting Difficulty in the 20222 US Midterm Elections](/pdf/203_voting_difficulties_writeup.pdf).
+
+For the source code, see this GitHub repository: [Partisan Differences in Perceived Voting Difficulty in the 20222 US Midterm Elections Source Code](https://github.com/nuraalia/voting_difficulties).
