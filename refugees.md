@@ -20,4 +20,4 @@ The Betweenness Centrality algorithm calculated which countries frequently were 
 
 For the full project presentation, see: [Refugee Movement around the World](/pdf/205_slides.pdf).
 
-For the code for this project, see: [Refugee Movement around the World Code](/code_files/205_final_code.html).
+For the code for this project, see: [Refugee Movement around the World Code](https://nbviewer.org/github/nuraalia/nuraalia.github.io/blob/main/code_files/205_final_code.ipynb).
