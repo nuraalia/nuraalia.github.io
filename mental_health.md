@@ -20,8 +20,8 @@ The nodes (which are characteristic of neural networks) appear in the last layer
 
 <img src="images/performant_multiclass_model_slide.png?raw=true"/>
 
-For the code for the data preprocessing, see: [Modeling Mental Health Data Preprocessing Code](/code_files/207_final_preprocessing.html).
+For the code for the data preprocessing, see: [Modeling Mental Health Data Preprocessing Code](https://nbviewer.org/github/nuraalia/nuraalia.github.io/blob/main/code_files/207_final_preprocessing.ipynb).
 
-For the code that produced our final models, see: [Modeling Mental Health Code Final Models](/code_files/Nura_edits_207_final_models.html).
+For the code that produced our final models, see: [Modeling Mental Health Code Final Models](https://nbviewer.org/github/nuraalia/nuraalia.github.io/blob/main/code_files/Nura_edits_207_final_models.ipynb).
 
 For a Powerpoint presentation of this project, see: [Modeling Mental Health Presentation](/pdf/Nura_edits_207_presentation.pdf).
