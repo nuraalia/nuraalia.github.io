@@ -13,6 +13,8 @@
 
 <img src="images/wordcloud.png?raw=true"/>---
 
+<b><u>Tools Used</u></b>: Python, Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
+
 ---
 [Do People from Big Families Love Big Families?](/203_big_families.md)
 
