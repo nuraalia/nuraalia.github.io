@@ -18,4 +18,6 @@ The Betweenness Centrality algorithm calculated which countries frequently were 
 
 <img src="images/algorithm_3_refugees.png?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For the full project presentation, see: [Refugee Movement around the World](/pdf/205_slides.pdf).
+
+For the code for this project, see: [Refugee Movement around the World Code](/code_files/205_final_code.html).
