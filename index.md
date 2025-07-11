@@ -47,7 +47,7 @@
   
 - [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
-<img src="images/beauvoir_image.webp?raw=true"/>
+<img src="images/beauvoir_image2.jpeg?raw=true"/>
 
 ---
 
