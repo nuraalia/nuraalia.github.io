@@ -59,9 +59,7 @@
 
 ### Education
 
-2023-present
-
-[Master of Information and Data Science, UC Berkeley](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+<img src="images/UC_Berkeley_logo.png?raw=true"/>2023-present: [Master of Information and Data Science, UC Berkeley](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
 
 
 
