@@ -59,28 +59,11 @@
 
 ### Education
 
-<style>
-.columns {
-  display: flex;
-  gap: 30px;
-  flex-wrap: wrap;
-}
-.column {
-  flex: 1;
-  min-width: 300px;
-}
-</style>
+2023-present
 
-<div class="columns">
-  <div class="column">
-    <p><strong>Column 1:</strong> This is the first column of content. You can add multiple paragraphs, links, or even images here.</p>
-    <p>It will stay on the left side of the page (or stack on small screens).</p>
-  </div>
-  <div class="column">
-    <p><strong>Column 2:</strong> This is the second column of text. You can include anything you'd normally put in a GitHub Pages section.</p>
-    <p>Try making this longer to see how the layout handles it.</p>
-  </div>
-</div>
+[Master of Information and Data Science, UC Berkeley](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+
+
 
 
 
