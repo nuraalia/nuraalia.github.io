@@ -59,18 +59,11 @@
 
 ### Education
 
-<div style="width: 100%; display: table;">
-  <div style="display: table-row">
-    <div style="display: table-cell; width: 50%; vertical-align: top; padding-right: 20px;">
-      <p><strong>Column 1:</strong> This is the first column. Add your content here.</p>
-      <p>You can include multiple paragraphs, images, etc.</p>
-    </div>
-    <div style="display: table-cell; width: 50%; vertical-align: top; padding-left: 20px;">
-      <p><strong>Column 2:</strong> This is the second column. More content here.</p>
-      <p>This should appear side by side with the first column.</p>
-    </div>
-  </div>
-</div>
+2023-present: [Master of Information and Data Science, UC Berkeley](https://www.berkeley.edu)
+
+2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
+
+2006: [AB, Government, Harvard College](https://www.harvard.edu)
 
 
 
