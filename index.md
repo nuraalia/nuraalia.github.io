@@ -64,7 +64,7 @@
     <p>2023-present</p>
   </div>
   <div style="flex: 1;">
-    <p>[Master of Information and Data Science, UC Berkeley](https://www.ischool.berkeley.edu/programs/mids)</p>
+    <p>hi</p>
   </div>
 </div>
 
