@@ -39,7 +39,7 @@
 
 ---
 
-### Academic Articles and Freelance Writing
+### Academic Articles
 
 <img src="images/khomeini_picture.jpeg?raw=true"/>
 
@@ -47,15 +47,14 @@
   
 - [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
-<img src="images/beauvoir_image2.jpg?raw=true"/>
+### Freelance Writing
 
 - [What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
 
----
+- [Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
