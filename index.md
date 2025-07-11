@@ -59,8 +59,15 @@
 
 ### Education
 
-2023-present             [Master of Information and Data Science, UC Berkeley]  
-                         (https://www.ischool.berkeley.edu/programs/mids)
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <p>2023-present</p>
+  </div>
+  <div style="flex: 1;">
+    <p>[Master of Information and Data Science, UC Berkeley](https://www.ischool.berkeley.edu/programs/mids)</p>
+  </div>
+</div>
+
 
 
 
