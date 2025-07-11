@@ -59,8 +59,19 @@
 
 ### Education
 
-<img src="images/UC_Berkeley_logo.png?raw=true"/>
-2023-present: [Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+<div style="width: 100%; display: table;">
+  <div style="display: table-row">
+    <div style="display: table-cell; width: 50%; vertical-align: top; padding-right: 20px;">
+      <p><strong>Column 1:</strong> This is the first column. Add your content here.</p>
+      <p>You can include multiple paragraphs, images, etc.</p>
+    </div>
+    <div style="display: table-cell; width: 50%; vertical-align: top; padding-left: 20px;">
+      <p><strong>Column 2:</strong> This is the second column. More content here.</p>
+      <p>This should appear side by side with the first column.</p>
+    </div>
+  </div>
+</div>
+
 
 
 
