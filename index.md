@@ -44,8 +44,10 @@
 <img src="images/khomeini_picture.jpeg?raw=true"/>
 
 - [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
+  
 - [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
+<img src="images/beauvoir_image.webp?raw=true"/>
 
 ---
 
