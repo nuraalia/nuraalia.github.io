@@ -43,13 +43,13 @@
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
-- [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
+[Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
-- [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
+[Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
-- [What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
+[What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
 
-- [Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+[Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
 
 ## More about My Background
 
