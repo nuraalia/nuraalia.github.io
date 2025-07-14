@@ -58,6 +58,7 @@
 ### Education
 
 <img src="images/UC_Berkeley_logo.png?raw=true"/>
+
 2023-present: [Master of Information and Data Science, UC Berkeley](https://www.berkeley.edu)
 
 2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
