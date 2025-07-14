@@ -39,15 +39,13 @@
 
 ---
 
-### Academic Articles
+### Political Theory Academic and Freelance Articles
 
 <img src="images/khomeini_picture.jpeg?raw=true"/>
 
 - [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
 - [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
-
-### Freelance Writing
 
 - [What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
 
@@ -59,6 +57,7 @@
 
 ### Education
 
+<img src="images/Berkeley_logo?raw=true"/>
 2023-present: [Master of Information and Data Science, UC Berkeley](https://www.berkeley.edu)
 
 2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
