@@ -3,10 +3,11 @@ logo: "/images/Nura_picture.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data researcher with a diverse educational background in data science, political philosophy, and the humanities.
   <br><br>
-  <a href="/pdf/refugees.md">View My Resume</a> 
   
-  <a href="https://www.linkedin.com/in/nura-hossainzadeh-79611b79/">### View My LinkedIn Profile</a> 
+  <a href="/pdf/refugees.md" style="font-size: 18px;">View My Resume</a> 
   
+  <a href="https://www.linkedin.com/in/nura-hossainzadeh-79611b79/" style="font-size: 18px;">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
