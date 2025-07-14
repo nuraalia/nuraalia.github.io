@@ -41,7 +41,7 @@
 
 ### Political Theory Academic and Freelance Articles
 
-<img src="images/Plato_Aristotle.jpg?raw=true"/>
+   <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
 - [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
