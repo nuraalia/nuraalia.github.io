@@ -41,7 +41,7 @@
 
 ### Political Theory Academic and Freelance Articles
 
-<img src="images/khomeini_picture.jpeg?raw=true"/>
+<img src="images/Plato_Aristotle.jpg?raw=true"/>
 
 - [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
@@ -57,7 +57,7 @@
 
 ### Education
 
-<img src="images/Berkeley_logo?raw=true"/>
+<img src="images/UC_Berkeley_logo.png?raw=true"/>
 2023-present: [Master of Information and Data Science, UC Berkeley](https://www.berkeley.edu)
 
 2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
