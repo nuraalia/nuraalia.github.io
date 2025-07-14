@@ -63,6 +63,8 @@
 
 2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
 
+<img src="images/Harvard_logo.png?raw=true"/>
+
 2006: [AB, Government, Harvard College](https://www.harvard.edu)
 
 
