@@ -1,7 +1,8 @@
 ## About Me
 
 <img src="images/nura_mohammad_princeton.HEIC?raw=true"/>
-My son Mohammad and me in 2019 at Princeton, where I was teaching Iranian and Islamic political thought. 
+
+
 
 My path to data science is somewhat unconventional. I spent many years in academia, teaching a wide range of topics in the humanities—political theory, Islamic and Iranian political thought, and the “great books” of human history. My research and publications focused on comparative political theory, a relatively new field that challenges the Western-centrism of traditional political thought by engaging with traditions outside the Western canon.
 
