@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="images/nura_mohammad_princeton.jpeg?raw=true"/>
+<img src="images/nura_mohammad_princeton.jpg?raw=true"/>
 
 
 
