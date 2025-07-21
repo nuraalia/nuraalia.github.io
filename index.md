@@ -59,13 +59,28 @@
 
 <img src="images/UC_Berkeley_logo.png?raw=true"/>
 
-2023-present: [Master of Information and Data Science, UC Berkeley](https://www.berkeley.edu)
+2023-present: [Master of Information and Data Science, UC Berkeley](https://www.ischool.berkeley.edu/programs/mids)
 
-2016: [Ph.D., Political Science UC Berkeley](https://www.berkeley.edu)
+2016: [Ph.D., Political Science, UC Berkeley](https://polisci.berkeley.edu/)
 
 <img src="images/Harvard_logo.png?raw=true"/>
 
-2006: [AB, Government, Harvard College](https://www.harvard.edu)
+2006: [AB, Government, Harvard College](https://www.gov.harvard.edu/)
+
+
+### Experience
+
+<img src="images/stanford_logo.jpg?raw=true"/>
+
+2019-2023: Lecturer, Stanford University,[Structured Liberal Education](https://sis.stanford.edu/structured-liberal-education-sle)
+
+<img src="images/princeton_logo.png?raw=true"/>
+
+2017-2019: Lecturer, [Department of Near Eastern Studies, Princeton University](https://nes.princeton.edu/)
+
+<img src="images/georgetown_logo.png?raw=true"/>
+
+2016-2017: Postdoctoral Fellow, [Department of Government, Georgetown University](https://government.georgetown.edu/)
 
 
 
