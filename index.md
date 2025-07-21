@@ -67,6 +67,7 @@
 
 2006: [AB, Government, Harvard College](https://www.gov.harvard.edu/)
 
+---
 
 ### Experience
 
