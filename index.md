@@ -91,8 +91,8 @@
 Structured Liberal Education, [“Great Books” Syllabus](http://slesyllabus.pbworks.com/w/browse/#view=ViewAllPages), Stanford University, 2019-2022
 
 ### Iranian and Islamic Political Thought
-Modern Iran, Princeton, Fall 2017; Spring 2019 
-Khomeini’s Islamic Republic, Princeton, Spring 2019 
+- Modern Iran, Princeton, Fall 2017; Spring 2019 
+- Khomeini’s Islamic Republic, Princeton, Spring 2019 
 Feminist Political Theory: Iran and the West, Princeton, Spring 2018 
 Islam and Government in Iran and Saudi Arabia, Princeton, Spring 2018 
 Liberalism, Democracy, and Iranian Political Thought, Princeton Fall 2017  
