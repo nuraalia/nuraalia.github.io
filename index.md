@@ -83,6 +83,34 @@
 
 2016-2017: Postdoctoral Fellow, [Department of Government, Georgetown University](https://government.georgetown.edu/)
 
+---
+
+### Courses Taught
+
+## Humanities
+Structured Liberal Education, [“Great Books” Syllabus](http://slesyllabus.pbworks.com/w/browse/#view=ViewAllPages), Stanford University, 2019-2022
+
+## Iranian and Islamic Political Thought
+Modern Iran, Princeton, Fall 2017; Spring 2019 
+Khomeini’s Islamic Republic, Princeton, Spring 2019 
+Feminist Political Theory: Iran and the West, Princeton, Spring 2018 
+Islam and Government in Iran and Saudi Arabia, Princeton, Spring 2018 
+Liberalism, Democracy, and Iranian Political Thought, Princeton Fall 2017  
+Modern Arab Political Thought, UC Berkeley, Spring 2013 
+
+## Political Theory
+Comparative Political Theory, Georgetown, Spring 2017 
+Contemporary Moral and Political Issues, San Francisco State University, Fall 2012 
+Introduction to Political Theory, UC Berkeley, Spring 2014; Spring 2009
+Law, Self & Society, UC Berkeley, Fall 2011 
+History of European Political Theory: The Twentieth Century, UC Berkeley, Spring 2010 
+
+## American Politics
+American Politics, San Francisco State University, Spring 2013 
+Judicial Process, San Francisco State University, Fall 2012 
+Introduction to American Politics, UC Berkeley, Spring 2011, Fall 2010; Summer 2010; Fall 2009; Fall 2008 
+California Politics, UC Berkeley, Fall 2013 
+
 
 
 
