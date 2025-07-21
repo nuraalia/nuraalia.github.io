@@ -73,7 +73,7 @@
 
 <img src="images/stanford_logo.jpg?raw=true"/>
 
-2019-2023: Lecturer, Stanford University,[Structured Liberal Education](https://sis.stanford.edu/structured-liberal-education-sle)
+2019-2023: Lecturer, Stanford University, [Structured Liberal Education](https://sis.stanford.edu/structured-liberal-education-sle)
 
 <img src="images/princeton_logo.png?raw=true"/>
 
