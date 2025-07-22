@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="images/nura_mohammad_princeton.png?raw=true"/>
+<img src="images/nura_mohammad_princeton_2019.png?raw=true"/>
 
 I am currently a student in the Master of Information and Data Science program at UC Berkeley. My path to data science is somewhat unconventional. With a Ph.D. in political science (also from Berkeley), I spent many years in academia, teaching a wide range of topics in the humanities—political theory, Islamic and Iranian political thought, and the “great books” of human history. My research and publications focused on comparative political theory, a relatively new field that challenges the Western-centrism of traditional political thought by engaging with traditions outside the Western canon.
 
