@@ -47,6 +47,8 @@
   
 [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
+[Political Thought in Contemporary Iran: Ayatollah Javadi Amoli's Theory of Guardianship](/pdf/paper_javadi_amoli.pdf)
+
 [What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
 
 [Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
