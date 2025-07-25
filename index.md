@@ -90,8 +90,7 @@
 ## Courses Taught
 
 ### Humanities
-- Structured Liberal Education (a freshman "great books" program), Stanford University, 2019-2022
-[Sample Fall Syllabus](http://slesyllabus.pbworks.com/w/page/147418581/Fall%202122%20Syllabus%20Archived), [Sample Winter Syllabus](http://slesyllabus.pbworks.com/w/page/148628034/Winter%20Syllabus%202122%20archived), [Sample Spring Syllabus](http://slesyllabus.pbworks.com/w/page/146199789/SLE%20syllabus%20Spring%202021%20archived)  
+- Structured Liberal Education (a freshman "great books" program), Stanford University, 2019-2022, [Sample Fall Syllabus](http://slesyllabus.pbworks.com/w/page/147418581/Fall%202122%20Syllabus%20Archived), [Sample Winter Syllabus](http://slesyllabus.pbworks.com/w/page/148628034/Winter%20Syllabus%202122%20archived), [Sample Spring Syllabus](http://slesyllabus.pbworks.com/w/page/146199789/SLE%20syllabus%20Spring%202021%20archived)  
 
 ### Iranian and Islamic Political Thought
 - Modern Iran, Princeton, Fall 2017; Spring 2019 
