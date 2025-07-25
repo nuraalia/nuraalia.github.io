@@ -2,7 +2,7 @@
 
 By Bianka Paul, Steve Lanciotti, and Nura Hossainzadeh
 
-**Project description:** In this project, we used Neo4j, a graph database management system, as a platform for data on refugee movement around the world between 2010-2022. Countries were represented as nodes, which were connected to each other by “weights,” which reflected numbers of refugees moving to and from each node. 
+**Project description:** In this project, we used Neo4j, a graph database management system, as a platform for data on refugee movement around the world between 2010-2022. Countries were represented as nodes, and nodes were connected to each other by “weights,” which reflected numbers of refugees moving to and from each node. 
 
 Since Neo4j depicted the data in graphical format, mimicking a geographical web of countries, we were easily able to visualize how countries played a role in either producing refugees or welcoming them, and how individual countries were connected to other countries, even indirectly, in the flow of refugee movement. 
 
@@ -14,7 +14,9 @@ We used Neo4j’s Graph Data Science Library to apply three different algorithms
 
 <img src="images/algorithm_2_refugees.png?raw=true"/>
 
-The Betweenness Centrality algorithm calculated which countries frequently were “bridges” between other countries, connecting them by refugee movement. While this calculation does not indicate that the same people coming in were the same leaving (and were therefore not strictly “bridges”) it did give us some sense of countries—such as Belgium and Iraq–that were highly connected to other countries by large numbers of exiting and entering refugees. These countries thus seemed to be attractive to some refugees but also had problems of their own, producing some refugees. These insights all came from being able to study data in graphical format and apply algorithms that were written to process data in this format, which allowed us to easily discern refugee paths through the world. 
+The Betweenness Centrality algorithm calculated which countries frequently were “bridges” between other countries, connecting them by refugee movement. While this calculation does not indicate that the same people coming in were the same leaving (and were therefore not strictly “bridges”) it did give us some sense of countries—such as Belgium and Iraq–that were highly connected to other countries by large numbers of exiting and entering refugees. These countries thus seemed to be attractive to some refugees but also had problems of their own, producing some refugees. 
+
+These findings were made possible by representing the data in graph format and applying network analysis algorithms specifically designed for such structures. Visualizing refugee movement as a network allowed us to uncover structural insights—such as patterns of transit, centrality, and interconnectedness—that would have been difficult to detect using traditional tabular data alone. 
 
 <img src="images/algorithm_3_refugees.png?raw=true"/>
 
