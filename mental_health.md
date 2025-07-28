@@ -20,7 +20,7 @@ Our most performant multiclass model was also a neural network, but one in which
 
 The final layer of the network consisted of five output nodes, each corresponding to a mental health category. Each output node received input from the previous layer via weighted connections. These weights were tuned during training so that certain patterns of words would activate particular nodes more strongly. A softmax activation function was then applied to the output scores, converting them into probabilities that reflect the model’s estimated likelihood that a given statement belongs to each mental health category.
 
-In essence, this model learned to associate patterns of words, represented numerically through embeddings, with patterns of mental health expression—capturing not just the presence of specific words, but the broader emotional and semantic contours of a person’s language.
+In essence, this model learned to associate patterns of words, represented numerically through embeddings, with states of mental health—capturing not just the presence of specific words, but the broader emotional and semantic contours of a person’s language.
 
 <img src="images/performant_multiclass_model_slide.png?raw=true"/>
 
