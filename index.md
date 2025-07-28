@@ -39,7 +39,7 @@
 
 ---
 
-### Political Theory Academic and Freelance Articles
+### Publications
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
