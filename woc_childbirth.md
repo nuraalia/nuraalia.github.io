@@ -16,7 +16,7 @@ Interviews will complement numerical data produced by surveys. Finally, intervie
 
 Our hope is that this study will be of interest to medical and nursing schools as well as hospital training programs that seek to address racial bias and prejudice in medical settings.
 
-### Below are sample survey and interview questions for postpartum women..
+### Below are sample survey and interview questions for postpartum women.
 
 <img src="images/interview_questions_woc_childbirth.png?raw=true"/>
 
