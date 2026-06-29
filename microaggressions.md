@@ -10,9 +10,8 @@ The key to achieving this result was the development of a novel dataset, used to
 
 As indicated in the table below, our BERT models (along with the baseline CNN model) were trained on our generated novel dataset and then cross-evaluated on a workplace microaggressions dataset. 
 
-<img src="images/neo4j_slide_graph1.png?raw=true"/>
+<img src="images/model_comparisons.jpg?raw=true"/>
 
-For the full project presentation, see: [Refugee Movement around the World](/pdf/205_slides.pdf).
+For the full paper, see: [Refugee Movement around the World](/pdf/205_slides.pdf).
 
-For the code for this project, see: [Refugee Movement around the World Code](https://nbviewer.org/github/nuraalia/nuraalia.github.io/blob/main/code_files/205_final_code.ipynb).
 
