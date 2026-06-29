@@ -12,6 +12,6 @@ As indicated in the table below, our BERT models (along with the baseline CNN mo
 
 <img src="images/Model_comparisons.jpg?raw=true"/>
 
-For the full paper, see: [Refugee Movement around the World](/pdf/205_slides.pdf).
+For the full paper, see: [Detecting Microaggressions Using LLM-Generated Counterfactuals](/pdf/W266_Final_Project_Hossainzadeh_Kotte_Schrupp.pdf).
 
 
