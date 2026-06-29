@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[How well can pre-trained language models detect subtle racism?](/woc_childbirth.md)
+[How well can pre-trained language models detect subtle racism?](/microaggressions.md)
 
 <img src="images/Microagression_Image.jpg?raw=true"/>
 
