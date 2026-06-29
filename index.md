@@ -4,6 +4,11 @@
 
 ### Data Science Projects 
 
+[How well can large language models detect subtle racism?](/woc_childbirth.md)
+
+<img src="images/maternity_care_woc2.jpg?raw=true"/>
+
+---
 [Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/woc_childbirth.md)
 
 <img src="images/maternity_care_woc2.jpg?raw=true"/>
