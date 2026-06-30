@@ -8,6 +8,8 @@
 
 <img src="images/Microagression_Image.jpg?raw=true"/>
 
+<b><u>Tools Used</u></b>: Python, Pandas, NumPy, Scikit-learn, Pytorch, Huggingface Transformers, Huggingface Datasets, Huggingface Evaluate, torchinfo, Matplotlib, Seaborn, textstat
+
 ---
 [Do Medical Professionals Empathize with the Pain of Women of Color in Labor?](/woc_childbirth.md)
 
