@@ -8,6 +8,10 @@
 
 <img src="images/Microagression_Image.jpg?raw=true"/>
 
+<p style="font-size: 0.85em; color: #666;">
+Figure 1. Caption describing the image.
+</p>
+
 
 <b><u>Tools Used</u></b>: Python, Pandas, NumPy, Scikit-learn, Pytorch, Huggingface Transformers, Huggingface Datasets, Huggingface Evaluate, torchinfo, Matplotlib, Seaborn, textstat
 
