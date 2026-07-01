@@ -14,6 +14,6 @@ As indicated in the table below, our BERT models (along with the baseline CNN mo
 
 For the full paper, see: [Detecting Microaggressions Using LLM-Generated Counterfactuals](/pdf/W266_Final_Project_Hossainzadeh_Kotte_Schrupp.pdf).
 
-For the code we wrote to fine-tune and evaluate multiple transformer models, including our best-performing DeBERTa model, see: [Code for Transformer Models]
+For the code we wrote to fine-tune and evaluate multiple transformer models, including our best-performing DeBERTa model, see: insekjrsjl
 
 
