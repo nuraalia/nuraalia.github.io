@@ -51,9 +51,17 @@
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
+*Public-facing Publications*   
+
 ['Boogeyman mullahs': How decades of anti-Iran hysteria set us on the path to war](https://www.middleeasteye.net/opinion/how-boogeyman-mullahs-trope-led-us-war-iran)
 
 [Why has the war on Iran not sparked a mass protest movement?](https://www.middleeasteye.net/opinion/why-war-iran-not-sparked-mass-protest-movement-us)
+
+[What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
+
+[Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+
+*Peer-Reviewed Publications*
 
 [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
@@ -61,9 +69,7 @@
 
 [Political Thought in Contemporary Iran: Ayatollah Javadi Amoli's Theory of Guardianship](/pdf/afro_middle_east_centre_proceedings.pdf)
 
-[What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
 
-[Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
 
 ## More about My Background
 
