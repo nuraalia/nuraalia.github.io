@@ -7,9 +7,6 @@
 [How well can pre-trained language models detect subtle racism?](/microaggressions.md)
 
 <img src="images/Microagression_Image.jpg?raw=true"/>
-<small>
-Figure 1. Caption describing the image.
-</small>
 
 
 <b><u>Tools Used</u></b>: Python, Pandas, NumPy, Scikit-learn, Pytorch, Huggingface Transformers, Huggingface Datasets, Huggingface Evaluate, torchinfo, Matplotlib, Seaborn, textstat
