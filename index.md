@@ -51,6 +51,10 @@
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
+['Boogeyman mullahs': How decades of anti-Iran hysteria set us on the path to war](https://www.middleeasteye.net/opinion/how-boogeyman-mullahs-trope-led-us-war-iran)
+
+[Why has the war on Iran not sparked a mass protest movement?](https://www.middleeasteye.net/opinion/why-war-iran-not-sparked-mass-protest-movement-us)
+
 [Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
   
 [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
