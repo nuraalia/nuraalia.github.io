@@ -21,6 +21,10 @@ Below is a list of the apolitical subreddits in which our usernames posted quest
 
 We measure engagement using two outcomes: net score (upvotes minus downvotes) and total interactions (upvotes, downvotes, and comments), both adjusted for post view counts.
 
+Below is an example of the data we could gather from a single post. 
+
+<img src="images/results_241.png?raw=true"/>
+
 **Our results:** We **do not find strong evidence** that political signaling affects the positivity of post-level reception as measured by net score (upvotes minus downvotes).
 
 In contrast, **we do find evidence** that conservative-signaling usernames receive fewer total interactions than neutral usernames.  In other words, people are less willing to upvote, downvote, or comment on posts made by the conservative treatment group; they are less willing to acknowledge and engage with MAGA users. 
