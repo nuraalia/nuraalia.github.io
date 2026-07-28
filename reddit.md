@@ -17,7 +17,7 @@ The accounts then post carefully constructed, non-political questions across a s
 
 Below is a list of the apolitical subreddits in which our usernames posted questions. 
 
-<img src="images/performant_multiclass_model_slide.png?raw=true"/>
+<img src="images/subreddits_241.png?raw=true"/>
 
 We measure engagement using two outcomes: net score (upvotes minus downvotes) and total interactions (upvotes, downvotes, and comments), both adjusted for post view counts.
 
