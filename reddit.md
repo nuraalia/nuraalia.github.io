@@ -11,7 +11,7 @@ In this study, we explore how the political divide centered on Trump may affect 
 
 In the experiment, we create 15 Reddit accounts, divided evenly between three types of usernames: politically neutral, liberal-signaled, and conservative-signaled. 
 
-<img src="images/binary_model.png?raw=true"/>
+<img src="images/usernames_241.png?raw=true"/>
 
 The accounts then post carefully constructed, non-political questions across a set of general-interest (non-political) subreddits. We wrote, in total, 180 questions, enough for each username to post a total of 12 times (each time in a different subreddit). We randomize the assignment of the usernames to post within each subreddit, ensuring that each subreddit receives an equal number of posts from each category of username (neutral, liberal, and conservative).
 
