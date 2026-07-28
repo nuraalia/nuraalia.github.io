@@ -6,7 +6,7 @@
 
 [Do Reddit users interact differently with postings by pro-Trump, anti-Trump, and politically neutral usernames?](/reddit.md)
 
-<img src="images/microaggression_image.jpg?raw=true"/>
+<img src="images/maga_harris_hat.jpg?raw=true"/>
 
 
 <b><u>Tools Used</u></b>: R, RStudio
