@@ -31,7 +31,7 @@ In contrast, **we do find evidence** that conservative-signaling usernames recei
 
 This corresponds to a conservative treatment effect coefficient of approximately -0.05, meaning that at a typical level of exposure around 30,000 views, conservative posts receive about 40% fewer interactions than otherwise similar neutral posts.
 
-For the full paper, see: [r/Political: Does political signaling change online engagement?](/pdf/Final_Report_241.pdf).
+For the full paper, see: [r/Political: Does political signaling change online engagement?](/pdf/Final_Report_241.pdf)
 
 
 
