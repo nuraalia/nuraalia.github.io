@@ -9,7 +9,7 @@
 <img src="images/microaggression_image.jpg?raw=true"/>
 
 
-<b><u>Tools Used</u></b>: Python, Pandas, NumPy, Scikit-learn, Pytorch, Huggingface Transformers, Huggingface Datasets, Huggingface Evaluate, torchinfo, Matplotlib, Seaborn, textstat
+<b><u>Tools Used</u></b>: R, RStudio
 
 ---
 
