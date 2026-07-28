@@ -58,7 +58,7 @@
 
 ### Publications
 
-<img src="images/boogeyman_mullahs.jpg?raw=true"/>
+<img src="images/boogeyman_mullahs.jpeg?raw=true"/>
 
 
 *Public-facing Publications*   
