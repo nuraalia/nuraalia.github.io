@@ -4,6 +4,15 @@
 
 ### Data Science Projects 
 
+[Do Reddit users interact differently with postings by pro-Trump, anti-Trump, and politically neutral usernames?](/reddit.md)
+
+<img src="images/microaggression_image.jpg?raw=true"/>
+
+
+<b><u>Tools Used</u></b>: Python, Pandas, NumPy, Scikit-learn, Pytorch, Huggingface Transformers, Huggingface Datasets, Huggingface Evaluate, torchinfo, Matplotlib, Seaborn, textstat
+
+---
+
 [How well can pre-trained language models detect subtle racism?](/microaggressions.md)
 
 <img src="images/microaggression_image.jpg?raw=true"/>
