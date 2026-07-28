@@ -58,6 +58,9 @@
 
 ### Publications
 
+<img src="images/boogeyman_mullahs.jpg?raw=true"/>
+
+
 *Public-facing Publications*   
 
 ['Boogeyman mullahs': How decades of anti-Iran hysteria set us on the path to war](https://www.middleeasteye.net/opinion/how-boogeyman-mullahs-trope-led-us-war-iran)
