@@ -31,6 +31,18 @@ In contrast, **we do find evidence** that conservative-signaling usernames recei
 
 This corresponds to a conservative treatment effect coefficient of approximately -0.05, meaning that at a typical level of exposure around 30,000 views, conservative posts receive about 40% fewer interactions than otherwise similar neutral posts.
 
+To evaluate the relationship between political usernames and our score and interaction outcome variables, we estimated the following two linear regressions:
+
+<img src="images/results_241.png?raw=true"/>
+
+Posts assigned to treatment were either assigned to a liberal (“no_kings”) or conservative (“MAGA”) signaled usernames. The two treatment conditions are indicator variables in our regression models, with the control condition as the referential baseline. 
+
+Because we blocked by subreddit during treatment assignment at the experiment design level, we added subreddit into our model as a covariate to account for the variation removed in the blocking process.
+
+Our primary outcomes were net score and total interactions, measured 24 hours after publication. We log-transformed both outcomes and standardized them by the logarithm of post view counts. The log transformation reduced skewness and the influence of extreme values in our relatively small sample of 180 posts, while standardization by view count accounted for algorithmic bias that may push more popular posts higher up on Redditors’ feeds, making such posts more visible and more likely to generate interactions.
+
+
+
 For the full paper, see: [r/Political: Does political signaling change online engagement?](/pdf/Final_Report_241.pdf)
 
 
