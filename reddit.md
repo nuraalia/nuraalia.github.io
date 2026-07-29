@@ -33,7 +33,7 @@ This corresponds to a conservative treatment effect coefficient of approximately
 
 To evaluate the relationship between political usernames and our score and interaction outcome variables, we estimated the following two linear regressions:
 
-<img src="images/results_241.png?raw=true"/>
+<img src="images/linear_regressions.png?raw=true"/>
 
 Posts assigned to treatment were either assigned to a liberal (“no_kings”) or conservative (“MAGA”) signaled usernames. The two treatment conditions are indicator variables in our regression models, with the control condition as the referential baseline. 
 
